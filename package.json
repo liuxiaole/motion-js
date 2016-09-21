@@ -1,0 +1,19 @@
+{
+  "name": "motion",
+  "version": "1.0.0",
+  "description": "A path motion js lib based on jquery and svg path.",
+  "main": "motion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "uglifyjs motion.js --source-map motion.min.js.map -o motion.min.js -c"
+  },
+  "keywords": [
+    "motion",
+    "path"
+  ],
+  "author": "chn.will.liu@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "uglify-js": "^2.7.3"
+  }
+}

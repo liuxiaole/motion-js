@@ -1,0 +1,23 @@
+{
+  "name": "Motion-Js",
+  "authors": [
+    "chn.will.liu@corp.netease.com"
+  ],
+  "description": "A path motion js lib based on jquery and svg path.",
+  "main": "motion.js",
+  "keywords": [
+    "motion",
+    "path",
+    "polyfill"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
